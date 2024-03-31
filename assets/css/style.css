@@ -255,7 +255,8 @@ h6 {
   right: 0;
   z-index: 1;
 }
-
+p{text-align:justify;}
+li{text-align:justify;}
 #hero .hero-container {
   position: relative;
   z-index: 2;
